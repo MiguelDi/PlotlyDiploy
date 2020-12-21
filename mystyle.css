@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image:  url(static/theme.jpg);
+    color: white;
+}
+
+body {
+    background-image: url(static/background.jpg);
+    font-family: Cosmic Sans;
+    text-align: center;
+}
