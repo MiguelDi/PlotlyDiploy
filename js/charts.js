@@ -108,7 +108,7 @@ function buildCharts(sample) {
       paper_bgcolor:'rgba(0,0,0,0)',
       font: {
         family: 'Courier New, monospace',
-        size: 18,
+        size: 16,
         color: 'white'
       }
     };
